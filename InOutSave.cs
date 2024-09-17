@@ -1,6 +1,3 @@
-﻿/**********************************************************
- * Demo for Standalone SDK.Created by Darcy on Oct.15 2009*
-***********************************************************/
 namespace RTEvents
 {
     public class InOutSave
